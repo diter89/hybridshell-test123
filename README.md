@@ -1,7 +1,6 @@
-❯ cat README.md
 # HybridShell
 
-HybridShell is an interactive terminal that blends a regular shell workflow with light AI assistance. It can:
+HybridShell is an interactive shell wrapper that blends a regular terminal workflow with light AI assistance. It can:
 
 - **Switch modes instantly** – jump between raw shell commands and AI chat.
 - **Plan simple tasks** – ask the helper to list, inspect, or run small shell steps in order.
