@@ -43,3 +43,6 @@ HybridShell is an interactive shell wrapper that blends a regular terminal workf
 Distributed as-is under the project’s repository terms.
 
 <img width="1366" height="768" alt="Screenshot from 2025-10-16 18-01-55" src="https://github.com/user-attachments/assets/803f9eb5-a8d4-42c2-ae49-6a90bf66822f" />
+
+<img width="1080" height="2400" alt="Screenshot_20251016-171008_Termux" src="https://github.com/user-attachments/assets/f4f0c479-273b-4a1f-ba50-ea409c001810" />
+
