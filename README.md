@@ -41,7 +41,7 @@ HybridShell is an interactive shell wrapper that blends a regular terminal workf
    ./hybridshell-x86_64
    ```
 
-The first launch creates `~/.wrapcli_awokwokw/config.ini`; tweak that file to customize prompts, styles, and command behavior without rebuilding the binary.
+The first launch creates `~/.hybridshell/config.ini`; tweak that file to customize prompts, styles, and command behavior without rebuilding the binary.
 
 ## Key Bindings
 
