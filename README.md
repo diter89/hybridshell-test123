@@ -69,3 +69,8 @@ Distributed as-is under the project’s repository terms.
 
 <img width="1080" height="2400" alt="Screenshot_20251016-171008_Termux" src="https://github.com/user-attachments/assets/f4f0c479-273b-4a1f-ba50-ea409c001810" />
 
+<img width="1080" height="2400" alt="Screenshot_20251015-194853_Termux" src="https://github.com/user-attachments/assets/f72e5fd8-86a4-44c4-9712-72e53d456793" />
+
+<img width="1080" height="2400" alt="Screenshot_20251016-223855_Termux" src="https://github.com/user-attachments/assets/6da14b81-a966-4b9e-b384-96858cb69b8e" />
+
+<img width="1080" height="2400" alt="Screenshot_20251016-224207_Termux" src="https://github.com/user-attachments/assets/0407ee2a-d011-4f78-9e19-148e3f382515" />
