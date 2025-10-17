@@ -21,6 +21,28 @@ HybridShell is an interactive shell wrapper that blends a regular terminal workf
    python3 -m simpl_cli.cli
    ```
 
+## Binary Download (x86_64)
+
+1. Download `hybridshell-test123.zip` from the release page: [v0.0.0.2](https://github.com/diter89/hybridshell-test123/releases/tag/0.0.0.2).
+2. Extract the archive:
+   ```bash
+   unzip hybridshell-test123.zip
+   ```
+3. Make sure the binary is executable (usually already is):
+   ```bash
+   chmod +x hybridshell-x86_64
+   ```
+4. Export your Fireworks API key:
+   ```bash
+   export FIREWORKS_API_KEY="your-key"
+   ```
+5. Run HybridShell:
+   ```bash
+   ./hybridshell-x86_64
+   ```
+
+The first launch creates `~/.wrapcli_awokwokw/config.ini`; tweak that file to customize prompts, styles, and command behavior without rebuilding the binary.
+
 ## Key Bindings
 
 | Shortcut | Action                |
@@ -41,6 +63,7 @@ HybridShell is an interactive shell wrapper that blends a regular terminal workf
 ## License
 
 Distributed as-is under the project’s repository terms.
+
 
 <img width="1366" height="768" alt="Screenshot from 2025-10-16 18-01-55" src="https://github.com/user-attachments/assets/803f9eb5-a8d4-42c2-ae49-6a90bf66822f" />
 
